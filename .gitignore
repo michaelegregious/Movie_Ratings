@@ -1,5 +1,6 @@
 # Ignore all .zip files
 *.zip
+*.md5
 
 # Ignore .csv files in folder
 ml-20m/

@@ -1,5 +1,5 @@
 # Movie Ratings relative to age and genre
-### A Jupyter Notebook data analysis of the influence of movie age on popularity
+A Jupyter Notebook data analysis of the influence of movie age on popularity
 
 ## Installing or manipulating locally:
 
